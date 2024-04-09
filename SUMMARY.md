@@ -11,5 +11,6 @@
   * [Gigantic Basics by CrazyMetic](wiki/competitive-links/gigantic-basics-by-crazymetic.md)
   * [Gigantic Game Guides](wiki/competitive-links/gigantic-game-guides.md)
 * [Patch Notes](wiki/patch-notes.md)
+* [Game Tips](wiki/game-tips.md)
 * [Tech](wiki/tech.md)
 * [Modding](wiki/modding.md)
