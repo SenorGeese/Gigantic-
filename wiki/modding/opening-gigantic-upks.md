@@ -1,8 +1,8 @@
 ---
-description: Modding to use console commands
+description: Modding to use console commands or views upks
 ---
 
-# Modding
+# Opening Gigantic UPKs
 
 You have to decompress it using [https://www.gildor.org/down/47/umodel/decompress.zip](https://www.gildor.org/down/47/umodel/decompress.zip) or here [https://www.gildor.org/downloads](https://www.gildor.org/downloads).&#x20;
 
