@@ -2,6 +2,10 @@
 
 This is the Competitive Gigantic Wiki! I hope to collect advanced knowledge, tips, and strategies about Gigantic because I want to play Gigantic more optimally because playing well is fun.
 
+# Huge thanks to Gitbook
+
+Gigantic thanks to Gitbook for hosting this wiki and their amazing support.
+
 # Gigantic Wikis?
 
 The official wiki but not competitively focused is at https://gogigantic.wiki/.
