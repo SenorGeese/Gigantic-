@@ -12,7 +12,7 @@ description: Quick Links to get around the Gigantic Communities.
 [https://beta.mistforge.net/](https://beta.mistforge.net/)
 {% endembed %}
 
-[Old-Gigantic Mistforge](https://mistforge.net/select\_hero)
+[Old-Gigantic Mistforge](https://mistforge.net/select\_hero) (dead now)
 
 {% embed url="https://mistforge.net/" %}
 [https://mistforge.net/select\_hero](https://mistforge.net/select\_hero)
@@ -37,6 +37,8 @@ description: Quick Links to get around the Gigantic Communities.
 [Old-Gigantic private games Discord server](https://discord.gg/zbEeAgB)
 
 [Gigantic competitive Discord server](https://discord.gg/aHpKWr2pUG)
+
+[Gigantic Wiki Discord server](https://discord.gg/my2T5FDqrb)
 
 ## Other
 
