@@ -28,17 +28,7 @@ description: Quick Links to get around the Gigantic Communities.
 [https://gigantic.fandom.com/](https://gigantic.fandom.com/)
 {% endembed %}
 
-## Discord Servers
 
-[Official Gigantic Discord server](https://discord.gg/GoGigantic)
-
-[Gigantic esports Discord server](https://discord.gg/HXRJZPay5y)
-
-[Old-Gigantic private games Discord server](https://discord.gg/zbEeAgB)
-
-[Gigantic competitive Discord server](https://discord.gg/aHpKWr2pUG)
-
-[Gigantic Wiki Discord server](https://discord.gg/my2T5FDqrb)
 
 ## Other
 
