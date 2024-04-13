@@ -6,13 +6,15 @@ description: You suffer desyncs and changes in game physics.
 
 For those want high fps and willing to suffer desyncs:
 
-Go to and Open the file `BaseSystemSettings.ini`
+Go to the below path and Open the file `BaseSystemSettings.ini`
 
 ```
-steamapps\common\Mission 202\Engine\Config\BaseSystemSettings.ini
+Steam\steamapps\common\Mission 202\Engine\Config\BaseSystemSettings.ini
 ```
 
-In that file, CTRL+F `AllowPerFrame`, `AllowPerFrameSleep` and ,`AllowPerFrameYield`, will both be `True`.&#x20;
+In that file, CTRL+F to search for `AllowPerFrame`.
+
+Look for `AllowPerFrameSleep` and `AllowPerFrameYield`, they will both be set to`True`.&#x20;
 
 Change them both to `False`.
 
