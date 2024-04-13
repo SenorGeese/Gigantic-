@@ -18,3 +18,4 @@
   * [Opening Gigantic UPKs](wiki/modding/opening-gigantic-upks.md)
   * [Unlocking FPS](wiki/modding/unlocking-fps.md)
   * [TogglePing custom bind](wiki/modding/toggleping-custom-bind.md)
+  * [Broken Hero/Build Swapping by Ardaim](wiki/modding/broken-hero-build-swapping-by-ardaim.md)
