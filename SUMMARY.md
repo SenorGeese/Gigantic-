@@ -17,3 +17,4 @@
 * [Modding](wiki/modding/README.md)
   * [Opening Gigantic UPKs](wiki/modding/opening-gigantic-upks.md)
   * [Unlocking FPS](wiki/modding/unlocking-fps.md)
+  * [TogglePing custom bind](wiki/modding/toggleping-custom-bind.md)
