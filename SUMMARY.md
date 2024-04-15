@@ -53,6 +53,7 @@
 * [Modding Requirements](modding/modding-requirements.md)
 * [Unlocking FPS](modding/unlocking-fps.md)
 * [Unable to Change Hero/Build (Fix)](modding/unable-to-change-hero-build-fix.md)
+* [Remove/Customize Startup Videos](modding/remove-customize-startup-videos.md)
 * [Keybind Manipulation](modding/keybind-manipulation/README.md)
   * [Snippets](modding/keybind-manipulation/snippets.md)
   * [Adding TogglePing keybind](modding/keybind-manipulation/adding-toggleping-keybind.md)
