@@ -43,7 +43,7 @@
   * [Tripp TODO](tech/character-specific/tripp-todo.md)
   * [Tyto](tech/character-specific/tyto.md)
   * [Vadasi](tech/character-specific/vadasi.md)
-  * [Voden (empty)](tech/character-specific/voden-empty.md)
+  * [Voden](tech/character-specific/voden.md)
   * [Wu](tech/character-specific/wu.md)
   * [Xenobia](tech/character-specific/xenobia.md)
   * [Zandora](tech/character-specific/zandora.md)
