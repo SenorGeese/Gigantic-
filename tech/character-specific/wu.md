@@ -2,7 +2,7 @@
 description: frog gets hax
 ---
 
-# Wu Tech
+# Wu
 
 ## Flowing Fist Cancel:
 
