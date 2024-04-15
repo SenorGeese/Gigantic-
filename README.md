@@ -1,12 +1,14 @@
 ---
-description: Collection of advanced knowledge, tips, and strategies about Gigantic.
+description: >-
+  A wiki to hold the Trinity. Competitive aspects, Game Tech, and Game Modding,
+  specifically for Gigantic.
 ---
 
-# Competitive Gigantic Wiki
+# Trinity Gigantic Wiki
 
-This is the Competitive Gigantic Wiki. This is to create a collection of advanced knowledge, tips, and strategies about Gigantic. Because I want to play Gigantic more optimally. Because playing well is fun.
+A wiki because playing well is fun, learning niche tech is fun, and modding games is fun.&#x20;
 
-## Gigantic Wiki's?
+## Gigantic Wiki's
 
 The general non-competitive focused Gigantic: Rampage Edition wiki is at [https://gogigantic.wiki/](https://gogigantic.wiki/).&#x20;
 
