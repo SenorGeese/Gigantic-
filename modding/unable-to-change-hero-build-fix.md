@@ -4,14 +4,15 @@ description: Description and fix to the "Unable to Change Hero/Build" bug.
 
 # Unable to Change Hero/Build (Fix)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Remember to make backups of the files you modify
 {% endhint %}
 
 {% hint style="danger" %}
-This changes may break your keybinds
+This changes may break your keybinds if performed incorrectly.
 
-<img src="../.gitbook/assets/brokenkeybinds.png" alt="" data-size="original">
+<img src="../.gitbook/assets/brokenkeybinds.png" alt="" data-size="original">\
+If you do break your keybinds. Try replacing the file with your backup, or use the Verify Game files option in Steam
 {% endhint %}
 
 ## Issue: Changing "Skill 4" keybind in-game breaks the ability to "Change Hero/Build"

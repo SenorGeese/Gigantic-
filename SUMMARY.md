@@ -50,8 +50,8 @@
 ## 🛠️ Modding
 
 * [Modding Requirements](modding/modding-requirements.md)
-* [Opening Gigantic UPKs](modding/opening-gigantic-upks.md)
 * [Unlocking FPS](modding/unlocking-fps.md)
-* [Adding TogglePing keybind](modding/adding-toggleping-keybind.md)
 * [Unable to Change Hero/Build (Fix)](modding/unable-to-change-hero-build-fix.md)
+* [Adding TogglePing keybind](modding/adding-toggleping-keybind.md)
 * [Broken Hero/Build Swapping by Ardaim](modding/broken-hero-build-swapping-by-ardaim.md)
+* [Opening Gigantic UPKs](modding/opening-gigantic-upks.md)
