@@ -52,5 +52,5 @@
 * [Modding Requirements](modding/modding-requirements.md)
 * [Opening Gigantic UPKs](modding/opening-gigantic-upks.md)
 * [Unlocking FPS](modding/unlocking-fps.md)
-* [TogglePing custom bind](modding/toggleping-custom-bind.md)
+* [DefaultInput custom binds](modding/defaultinput-custom-binds.md)
 * [Broken Hero/Build Swapping by Ardaim](modding/broken-hero-build-swapping-by-ardaim.md)
