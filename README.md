@@ -1,12 +1,12 @@
 # Competitive Gigantic Wiki
 
-This is the Competitive Gigantic Wiki! I hope to collect advanced knowledge, tips, and strategies about Gigantic because I want to play Gigantic more optimally because playing well is fun.
+A wiki to hold the Trinity. Competitive aspects, Game Tech, and Game Modding, specifically for Gigantic.
 
 # Huge thanks to Gitbook
 
 Gigantic thanks to Gitbook for hosting this wiki and their amazing support.
 
-# Gigantic Wiki's?
+# Gigantic Wiki's
 
 The official wiki but not competitively focused is at https://gogigantic.wiki/.
 
