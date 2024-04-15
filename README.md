@@ -1,4 +1,4 @@
-# Competitive Gigantic Wiki
+# Trinity Gigantic Wiki
 
 A wiki to hold the Trinity. Competitive aspects, Game Tech, and Game Modding, specifically for Gigantic.
 
