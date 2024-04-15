@@ -17,9 +17,9 @@ If you do break your keybinds. Try replacing the file with your backup, or use t
 
 ## Issue: Changing "Skill 4" keybind in-game breaks the ability to "Change Hero/Build"
 
-<figure><img src="../.gitbook/assets/skill4ingame.png" alt=""><figcaption><p>Skill 4 keybind in settings in-game</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/skill4ingame.png" alt=""><figcaption><p>Default "Skill 4" keybind in in-game settings</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/brokenchangeherobuild.png" alt=""><figcaption><p>Broken "Change Hero/Build" bug (I set keybind to "B")</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/brokenchangeherobuild.png" alt=""><figcaption><p>Broken "Change Hero/Build" bug after I set "Skill 4" keybind to "B"</p></figcaption></figure>
 
 ## Fix: Changing DefaultInput.ini
 
