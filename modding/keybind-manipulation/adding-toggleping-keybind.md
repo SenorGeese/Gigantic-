@@ -2,12 +2,12 @@
 description: Adding some "TogglePing" keybind that is missing from the game
 ---
 
-# DefaultInput custom binds
+# Adding TogglePing keybind
 
 {% hint style="danger" %}
 This can destroy your keybinds, see below
 
-<img src="../.gitbook/assets/brokenkeybinds.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/brokenkeybinds.png" alt="" data-size="original">
 {% endhint %}
 
 {% hint style="success" %}

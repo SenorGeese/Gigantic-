@@ -51,10 +51,10 @@ In the example above, I set "Change Hero/Build" to `E`, and set "Skill 4" to `B`
 
 ## Leads:&#x20;
 
-{% content-ref url="adding-toggleping-keybind.md" %}
-[adding-toggleping-keybind.md](adding-toggleping-keybind.md)
+{% content-ref url="keybind-manipulation/adding-toggleping-keybind.md" %}
+[adding-toggleping-keybind.md](keybind-manipulation/adding-toggleping-keybind.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-hero-build-swapping-by-ardaim.md" %}
-[broken-hero-build-swapping-by-ardaim.md](broken-hero-build-swapping-by-ardaim.md)
+{% content-ref url="keybind-manipulation/broken-hero-build-swapping-by-ardaim.md" %}
+[broken-hero-build-swapping-by-ardaim.md](keybind-manipulation/broken-hero-build-swapping-by-ardaim.md)
 {% endcontent-ref %}
