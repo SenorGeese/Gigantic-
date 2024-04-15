@@ -12,4 +12,4 @@ File: `DefaultInput.ini`
 Picture from Gigantic esports Discord server
 {% endembed %}
 
-You just have to add the highlighted line to that file above `; Debugging Bindings`.
+You just have to add the highlighted line to that file above `; Debugging Bindings` (On line 448).
