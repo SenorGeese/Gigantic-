@@ -16,10 +16,16 @@
 
 ## 🕹️ Tech
 
-* [Gigantic Tech](tech/gigantic-tech/README.md)
-  * [Interrupt with Focus](tech/gigantic-tech/interrupt-with-focus.md)
-  * [Wu Tech](tech/gigantic-tech/wu-tech.md)
-  * [Tyto Tech](tech/gigantic-tech/tyto-tech.md)
+* [Game wide](tech/game-wide/README.md)
+  * [Hard Landing Bypass](tech/game-wide/hard-landing-bypass.md)
+  * [Interrupt with Focus](tech/game-wide/interrupt-with-focus.md)
+* [Character Specific](tech/character-specific/README.md)
+  * [Aisling (empty)](tech/character-specific/aisling-empty.md)
+  * [Beckett](tech/character-specific/beckett.md)
+  * [Charnok (empty)](tech/character-specific/charnok-empty.md)
+  * [Ezren (empty)](tech/character-specific/ezren-empty.md)
+  * [Tyto Tech](tech/character-specific/tyto-tech.md)
+  * [Wu Tech](tech/character-specific/wu-tech.md)
 
 ## 🛠️ Modding
 
