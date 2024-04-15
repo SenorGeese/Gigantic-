@@ -7,7 +7,23 @@ description: frog gets hax
 ## Flowing Fist Cancel:
 
 {% embed url="https://www.youtube.com/watch?v=F_8wGoXPeC0" %}
-frog obtains funny
+Gigantic Player explaining and doing Flowing Fist Cancel
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=JqqoxgkGkt0" %}
+flim doing the Flow Fist Tongue Cancel
+{% endembed %}
+
+## Wu Combo:
+
+{% embed url="https://www.youtube.com/watch?v=OwtVcVRytEw" %}
+idk the combo yet
+{% endembed %}
+
+## Flowing Fist Focus Cancel:
+
+{% embed url="https://www.youtube.com/watch?v=7herfx6XBQA" %}
+Extra distance&#x20;
 {% endembed %}
 
 ## idk (idk how to do it):
