@@ -13,6 +13,7 @@
   * [Gigantic Game Guides](competitive/competitive-links/gigantic-game-guides.md)
 * [Youtube Videos](competitive/youtube-videos.md)
 * [Patch Notes](competitive/patch-notes.md)
+* [Margrave](competitive/margrave.md)
 * [Unlocking Clash ASAP](competitive/unlocking-clash-asap.md)
 
 ## 🕹️ Tech
