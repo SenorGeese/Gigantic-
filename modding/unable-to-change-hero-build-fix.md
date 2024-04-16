@@ -9,9 +9,7 @@ Remember to make backups of the files you modify
 {% endhint %}
 
 {% hint style="danger" %}
-This changes may break your keybinds if performed incorrectly.
-
-<img src="../.gitbook/assets/brokenkeybinds.png" alt="" data-size="original">\
+This changes may break your keybinds if performed incorrectly.<img src="../.gitbook/assets/brokenkeybinds.png" alt="" data-size="original">\
 If you do break your keybinds. Try replacing the file with your backup, or use the Verify Game files option in Steam
 {% endhint %}
 
@@ -35,11 +33,20 @@ Go to line 419:
 
 Make these changes below, changing Line 419 and adding Line 420. This edit includes creating a new line, separating the keybinds, and setting your preferred keybinds.
 
+{% hint style="success" %}
+Make sure to edit `DefaultInput.ini` if you want to change the keybinds for `Change Hero/Build` or `Skill_4`. Otherwise it breaks and you need to update the file to fix.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/afterchanges.png" alt=""><figcaption><p>The changes in place to fix the bug which is changing</p></figcaption></figure>
 
 In the example above, I set "Change Hero/Build" to `E`, and set "Skill 4" to `B`.
 
 <figure><img src="../.gitbook/assets/finalproduct.png" alt=""><figcaption><p>"Change Hero/Build" is working, and E skill is set to B.</p></figcaption></figure>
+
+{% hint style="danger" %}
+Do not change either of the keybinds using the in-game "Skill 4" setting,![](../.gitbook/assets/skill4-ingame.png)\
+If you do you'll need to redo these changes to fix the bug.
+{% endhint %}
 
 ## Enjoy your personalized keybinds!
 
