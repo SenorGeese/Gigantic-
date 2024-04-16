@@ -39,7 +39,7 @@
   * [Roland](tech/character-specific/roland.md)
   * [Rutger](tech/character-specific/rutger.md)
   * [Sven (empty)](tech/character-specific/sven-empty.md)
-  * [Tmat (empty)](tech/character-specific/tmat-empty.md)
+  * [Tmat](tech/character-specific/tmat.md)
   * [Tripp TODO](tech/character-specific/tripp-todo.md)
   * [Tyto](tech/character-specific/tyto.md)
   * [Vadasi](tech/character-specific/vadasi.md)
