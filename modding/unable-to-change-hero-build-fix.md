@@ -44,7 +44,7 @@ In the example above, I set "Change Hero/Build" to `E`, and set "Skill 4" to `B`
 <figure><img src="../.gitbook/assets/finalproduct.png" alt=""><figcaption><p>"Change Hero/Build" is working, and E skill is set to B.</p></figcaption></figure>
 
 {% hint style="danger" %}
-Do not change either of the keybinds using the in-game "Skill 4" setting,![](../.gitbook/assets/skill4-ingame.png)\
+Do not change either of the keybinds using the in-game "Skill 4" setting,![](../.gitbook/assets/skill4ingame.png)\
 If you do you'll need to redo these changes to fix the bug.
 {% endhint %}
 
