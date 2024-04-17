@@ -14,6 +14,12 @@ Gigantic Player explaining and doing Flowing Fist Cancel
 flim doing the Flow Fist Tongue Cancel
 {% endembed %}
 
+## Wu Combo with Reset:
+
+{% embed url="https://www.youtube.com/watch?v=npmvb2cjdJY" %}
+idk the combo yet 2
+{% endembed %}
+
 ## Wu Combo:
 
 {% embed url="https://www.youtube.com/watch?v=OwtVcVRytEw" %}
