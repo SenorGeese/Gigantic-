@@ -3,9 +3,9 @@
 ## 👋 Gigantic <a href="#intro" id="intro"></a>
 
 * [Trinity Gigantic Wiki](README.md)
-* [Gigantic Links](intro/gigantic-links.md)
 * [Gigantic Wiki's](intro/gigantic-wikis.md)
 * [Gigantic Discords servers](intro/gigantic-discords-servers.md)
+* [Gigantic Other Links](intro/gigantic-other-links.md)
 
 ## 📈 Competitive
 
