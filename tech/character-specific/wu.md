@@ -4,6 +4,18 @@ description: frog gets hax
 
 # Wu
 
+## Wu Cliffing Combo:
+
+{% embed url="https://www.youtube.com/watch?v=p18EK1P72oY" %}
+common combo to cliff people with wu tongue
+{% endembed %}
+
+## Second Wu Cliffing Combo:
+
+{% embed url="https://www.youtube.com/watch?v=i37zp5KQEHQ" %}
+riskier but good wu cliff too
+{% endembed %}
+
 ## Flowing Fist Cancel:
 
 {% embed url="https://www.youtube.com/watch?v=F_8wGoXPeC0" %}
