@@ -1,5 +1,7 @@
 # Rutger
 
+## Rutger can also do focus cancel jump
+
 ## Really fast Rutger:
 
 {% embed url="https://www.youtube.com/watch?v=Wz6LO7OI0Vk" %}
