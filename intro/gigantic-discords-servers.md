@@ -7,7 +7,7 @@ description: >-
 # Gigantic Discords servers
 
 {% hint style="info" %}
-Do you want to add other discord servers? Contact me or make an issue on the [Github](https://github.com/SenorGeese/Gigantic/issues) to request any other Discord servers you'd like to see here. Thank you for your consideration.
+Do you want to add other discord servers? Contact me or make an issue on the [Github](https://github.com/SenorGeese/Gigantic/issues) to request any other Discord servers you'd like to see here. Thank you for helping!
 {% endhint %}
 
 ## The Official GoGigantic [Discord Server](https://discord.gg/GoGigantic)
