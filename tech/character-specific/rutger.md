@@ -7,3 +7,9 @@
 ## Q jump:
 
 {% embed url="https://www.youtube.com/watch?v=M-WJmHt24d0" %}
+
+## Bugged Rutger Healing:
+
+{% embed url="https://www.youtube.com/watch?v=VuZQJRn94-E" %}
+soon to be patched
+{% endembed %}
