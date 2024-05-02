@@ -61,4 +61,4 @@
   * [Snippets](modding/keybind-manipulation/snippets.md)
   * [Adding TogglePing keybind](modding/keybind-manipulation/adding-toggleping-keybind.md)
   * [Broken Hero/Build Swapping by Ardaim](modding/keybind-manipulation/broken-hero-build-swapping-by-ardaim.md)
-* [Opening Gigantic UPKs](modding/opening-gigantic-upks.md)
+* [Gigantic UPKs](modding/gigantic-upks.md)
