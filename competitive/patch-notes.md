@@ -1,6 +1,25 @@
 # Patch Notes
 
-Gigantic: Rampage Edition Launch Patch Notes
+Gigantic: Rampage Edition Launch Patch Notes - April 9th
 
-[https://www.gogigantic.com/en/news-article/11566613](https://www.gogigantic.com/en/news-article/11566613)
+{% embed url="https://www.gogigantic.com/en/news-article/11566613" %}
+[https://www.gogigantic.com/en/news-article/11566613](https://www.gogigantic.com/en/news-article/11566613) - April 9th
+{% endembed %}
 
+State of the Game #1 - April 19th
+
+{% embed url="https://www.gogigantic.com/en/news-article/11567773" %}
+[https://www.gogigantic.com/en/news-article/11567773](https://www.gogigantic.com/en/news-article/11567773) - April 19th
+{% endembed %}
+
+Update - April 26th
+
+{% embed url="https://www.gogigantic.com/en/news-article/11568473" %}
+[https://www.gogigantic.com/en/news-article/11568473](https://www.gogigantic.com/en/news-article/11568473) - April 26th
+{% endembed %}
+
+Hotfix - May 8th
+
+{% embed url="https://www.gogigantic.com/en/news-article/11568905" %}
+[https://www.gogigantic.com/en/news-article/11568905](https://www.gogigantic.com/en/news-article/11568905) - May 8th
+{% endembed %}
