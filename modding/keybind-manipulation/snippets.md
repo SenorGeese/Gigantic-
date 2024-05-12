@@ -13,3 +13,5 @@ If you want to assign commands to your mouse side buttons you should use `ThumbM
 To disable cooldowns in Practice Arena I add the line `.Bindings=(Name="M",Command="DisableCooldowns")` to `DefaultInput.ini` in `\RxGame\Config\`. You can do the same with Focus using this `.Bindings=(Name="N",Command="AddFocus 250")` or enable console.
 
 Dodge is `GBA_DodgeModifier`.
+
+To take an in-game engine screenshot use `F9`. These screenshots don't show the fps counter in the top left. `ToggleHud`, and `DrawGFX 0`, don't remove the fps counter in the top left in Gig:RE.
