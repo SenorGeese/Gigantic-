@@ -9,3 +9,9 @@ Granny spawning portals through Infernal portals
 ## Granny movement:
 
 {% embed url="https://www.youtube.com/watch?v=UF-ZQew2H7U" %}
+
+## Granny can heals Cador:
+
+{% embed url="https://www.youtube.com/watch?v=EA1NMM_mr5Q" %}
+Granny healing and buffing Cador
+{% endembed %}
