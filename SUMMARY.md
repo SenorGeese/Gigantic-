@@ -53,7 +53,6 @@
 ## 🛠️ Modding
 
 * [Modding Requirements](modding/modding-requirements.md)
-* [Unlocking FPS](modding/unlocking-fps.md)
 * [Unable to Change Hero/Build (Fix)](modding/unable-to-change-hero-build-fix.md)
 * [Remove/Customize Startup Videos](modding/remove-customize-startup-videos.md)
 * [Custom EAC Splash](modding/custom-eac-splash.md)
@@ -62,3 +61,5 @@
   * [Adding TogglePing keybind](modding/keybind-manipulation/adding-toggleping-keybind.md)
   * [Broken Hero/Build Swapping by Ardaim](modding/keybind-manipulation/broken-hero-build-swapping-by-ardaim.md)
 * [Gigantic UPKs](modding/gigantic-upks.md)
+* [Map Codenames](modding/map-codenames.md)
+* [Unlocking FPS](modding/unlocking-fps.md)

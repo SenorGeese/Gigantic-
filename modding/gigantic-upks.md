@@ -20,9 +20,27 @@ Do `./decompress.exe -game=gigantic <Path to Package>` to decompress the upk usi
 
 Using a hex editor. Find `161F446576656C6F70657200160428`**.** The last four bytes `0428` is `return false`. Cut it so that there's no blank hexes Then search for a hex value of `079300827701CC` And place it before those bytes and change it to 0427 for return true.
 
-OR
+## Enabling Developer Mode/Enabling Console 2
 
-Find `161F446576656C6F70657200160428` and remove `0428`. Add `0427` right before `079300827701CCF2FFFF2A161833`.
+Find `RxGame.upk` inside `RxGame\CookedPCConsole\`
+
+decompress.exe is cli tool, so go where decompress.exe is located within cmd. Do `decompress.exe -game=gigantic <Path to Package>` to decompress the upk using [https://www.gildor.org/down/47/umodel/decompress.zip](https://www.gildor.org/down/47/umodel/decompress.zip) or here [https://www.gildor.org/downloads](https://www.gildor.org/downloads).&#x20;
+
+Open your decompressed pack inside a hex editor of your choice.
+
+Find `161F446576656C6F70657200160428`. Select the chunk.
+
+<figure><img src="../.gitbook/assets/before-selected_chunk.png" alt=""><figcaption><p>Selected chunk</p></figcaption></figure>
+
+Shift (copy and paste) this chunk to the right to remove `0428`.
+
+<figure><img src="../.gitbook/assets/shifted_chunk.png" alt=""><figcaption><p>Chunk correctly shifted</p></figcaption></figure>
+
+Replace the `0793` with `0427` right before the `079300827701CCF2FFFF2A161833` string.
+
+<figure><img src="../.gitbook/assets/modified_chunk.png" alt=""><figcaption><p>Modification</p></figcaption></figure>
+
+You don't need to compress. Just replace the file. You know it worked when you can boot into main menu or see predicted commands in console.
 
 ## Viewing the UPKs
 
