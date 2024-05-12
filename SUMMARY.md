@@ -49,6 +49,7 @@
   * [Xenobia](tech/character-specific/xenobia.md)
   * [Zandora](tech/character-specific/zandora.md)
 * [Outdated Tech (empty)](tech/outdated-tech-empty.md)
+* [Grading System](tech/grading-system.md)
 
 ## 🛠️ Modding
 
