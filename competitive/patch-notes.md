@@ -23,3 +23,9 @@ Hotfix - May 8th
 {% embed url="https://www.gogigantic.com/en/news-article/11568905" %}
 [https://www.gogigantic.com/en/news-article/11568905](https://www.gogigantic.com/en/news-article/11568905) - May 8th
 {% endembed %}
+
+Update - June 7th
+
+{% embed url="https://www.gogigantic.com/en/news-article/11569454" %}
+[https://www.gogigantic.com/en/news-article/11569454](https://www.gogigantic.com/en/news-article/11569454) - June 7th
+{% endembed %}
