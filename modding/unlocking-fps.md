@@ -4,6 +4,10 @@ description: You suffer desyncs and changes in game physics.
 
 # Unlocking FPS
 
+{% hint style="info" %}
+Some say it's been patched out on the June 7th update.
+{% endhint %}
+
 For those want high fps and willing to suffer desyncs:
 
 Go to the below path and Open the file `BaseSystemSettings.ini`
