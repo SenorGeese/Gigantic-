@@ -4,6 +4,10 @@ description: Remove or get customized startup videos when launching Gigantic
 
 # Remove/Customize Startup Videos
 
+{% hint style="warning" %}
+As of July 18th patch. They added some file verification that will not let your sign in with modified startup videos. You can still disable the startup videos if you modify `DefaultEngine.ini` and remove relevant code or deleting the startup video files. I could not find a way to get custom startup videos.
+{% endhint %}
+
 ## Download and Install RAD Tools:
 
 {% embed url="https://www.radgametools.com/bnkdown.htm" %}
