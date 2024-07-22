@@ -4,6 +4,10 @@ description: Modding to use console commands or views upks
 
 # Gigantic UPKs
 
+{% hint style="warning" %}
+Since the July 18th patch. You can no longer use this method to enable console functionality.
+{% endhint %}
+
 {% hint style="success" %}
 Remember to make backups
 {% endhint %}
