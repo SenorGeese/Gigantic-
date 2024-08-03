@@ -54,6 +54,7 @@
 ## 🛠️ Modding
 
 * [Modding Requirements](modding/modding-requirements.md)
+* [Modding Videos](modding/modding-videos.md)
 * [Unable to Change Hero/Build (Fix)](modding/unable-to-change-hero-build-fix.md)
 * [Remove/Customize Startup Videos](modding/remove-customize-startup-videos.md)
 * [Custom EAC Splash](modding/custom-eac-splash.md)
