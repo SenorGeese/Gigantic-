@@ -4,6 +4,10 @@ description: Description and fix to the "Unable to Change Hero/Build" bug.
 
 # Unable to Change Hero/Build (Fix)
 
+{% hint style="info" %}
+Abstraction updated and fixed this issue completely. You should not need this fix unless you are playing on older versions of the game.
+{% endhint %}
+
 {% hint style="success" %}
 Remember to make backups of the files you modify
 {% endhint %}

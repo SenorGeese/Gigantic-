@@ -10,4 +10,10 @@ description: Videos relating to modding or game modificiation.
 how to open maps without signing in using a windows exe shortcut
 {% endembed %}
 
-You can also do this using a shortcut.
+You can also do this using the Windows Run prompt or using a Windows shortcut.
+
+Example: You can change to whatever map you want.
+
+```
+<PATH_TO_GAME_EXE> LV_grassland
+```
