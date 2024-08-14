@@ -55,3 +55,9 @@ Owned by flim. It's a server for learning tech/bugs/exploit both past and presen
 Owned by Legroom. This is a server to be the social communication center for editors and readers of the [GoGigantic wiki](https://gogigantic.wiki/) ([https://gogigantic.wiki/](https://gogigantic.wiki/)). Editing, additions, improvements, and other wiki things is up for discussion here! Discord link: [https://discord.gg/my2T5FDqrb](https://discord.gg/my2T5FDqrb)
 
 <figure><img src="../.gitbook/assets/giganticwikidiscordserver.png" alt=""><figcaption><p>Legroom's Wiki server</p></figcaption></figure>
+
+## Gig Draft League [Discord server](https://discord.gg/JUhKKdV56t)
+
+Owned by CrazyMetic. This is a server hosting more competitive tournaments for Gigantic Rampage Edition. Discord link: [https://discord.gg/JUhKKdV56t](https://discord.gg/JUhKKdV56t)
+
+<figure><img src="../.gitbook/assets/gigdraftleague.png" alt=""><figcaption><p>CrazyMetic's Comp server</p></figcaption></figure>
