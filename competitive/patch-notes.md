@@ -29,3 +29,9 @@ Update - June 7th
 {% embed url="https://www.gogigantic.com/en/news-article/11569454" %}
 [https://www.gogigantic.com/en/news-article/11569454](https://www.gogigantic.com/en/news-article/11569454) - June 7th
 {% endembed %}
+
+Update - July 18th
+
+{% embed url="https://www.gogigantic.com/en/news-article/11570213" %}
+[https://www.gogigantic.com/en/news-article/11570213](https://www.gogigantic.com/en/news-article/11570213) - July 18th
+{% endembed %}
